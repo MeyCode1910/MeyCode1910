@@ -1,4 +1,4 @@
-[![MasterHead](https://medias.3dvf.com/news/logiciels/unitylogo.jpg)
+![MasterHead](https://connect-prd-cdn.unity.com/20191209/70d96f05-75df-42be-9790-dd4e8825e6b3)
 
 <h1 align="center">Merhaba Ben Muhammet</h1>
 <h3 align="center">Bartın Üniversitesi Bilgisayar Programcılığı bölümünden 2024 yılında mezun oldum. Oyun geliştirme konusunda büyük bir tutkuya sahibim ve bu alanda kendimi sürekli olarak geliştirmekteyim. Zexa Studios'un kurucusu ve takım lideri olarak birçok projede yer aldım ve çeşitli yarışmalara katıldım.</h3>
@@ -55,7 +55,7 @@ Film İzlemek: Sinema dünyasına büyük bir ilgim var.
 </p>
 
 <h3 align="left">Kullandığum Dil ve Oyun Moto:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="birlik" genişlik="40" yükseklik="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="birlik" genişlik="28" yükseklik="28"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meycode1910&show_icons=true&locale=en&layout=compact" alt="meycode1910" /></p>
 
