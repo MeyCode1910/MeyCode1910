@@ -47,11 +47,11 @@ Film İzlemek: Sinema dünyasına büyük bir ilgim var.<br>
  
 <h3 align="left">Sosyal Medya:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammet yorulmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammet yorulmaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Muhammet Yorulmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammet yorulmaz" height="30" width="40" /></a>
 <a href="https://instagram.com/mey.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mey.code" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Kullandığum Dil ve Oyun Moto:</h3>
+<h3 align="left">Kullandığum Dil ve Oyun Motoru:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="birlik" genişlik="28" yükseklik="28"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meycode1910&show_icons=true&locale=en&layout=compact" alt="meycode1910" /></p>
