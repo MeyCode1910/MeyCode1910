@@ -3,9 +3,6 @@
 <h1 align="center">Merhaba Ben Muhammet</h1>
 <h3 align="center">Bartın Üniversitesi Bilgisayar Programcılığı bölümünden 2024 yılında mezun oldum. Oyun geliştirme konusunda büyük bir tutkuya sahibim ve bu alanda kendimi sürekli olarak geliştirmekteyim. Zexa Studios'un kurucusu ve takım lideri olarak birçok projede yer aldım ve çeşitli yarışmalara katıldım.</h3>
 
-
-<br>
-
 <h4 aling="center">
 Eğitim:Bartın Üniversitesi<br>
 Bölüm: Bilgisayar Programcılığı<br>
@@ -13,14 +10,11 @@ Mezuniyet: 2024<br>
 <br>
 
 
-
-
 Deneyim:<br>
 Zexa Studios Kurucusu ve Takım Lideri
 Unity oyun motorunu kullanarak oyun projeleri geliştirmek.<br>
 Takım çalışmasıyla projeler üretmek ve çeşitli yarışmalara katılmak.<br>
 Takım iletişimi ve iş birliğini sağlamak için bir Discord topluluğu kurmak.<br>
-
 
 
 Teknik Beceriler:<br>
