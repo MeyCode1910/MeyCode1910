@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=xekwnElz&id=85E4F40690F6B8F24D46BAED32FDC437B4564534&thid=OIP.xekwnElzBVeR79MiTb1TygHaD7&mediaurl=https%3a%2f%2fclipground.com%2fimages%2funity-3d-logo-4.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c5e9309c4973055791efd3224dbd53ca%3frik%3dNEVWtDfE%252fTLtug%26pid%3dImgRaw%26r%3d0&exph=1020&expw=1920&q=unity&simid=608046831667864621&FORM=IRPRST&ck=F775A78FCA440B3659239B538D736551&selectedIndex=41&itb=0&ajaxhist=0&ajaxserp=0)
+[![MasterHead](https://artpictures.club/autumn-2023.html)
 <h1 align="center">Merhaba Ben Muhammet</h1>
 <h3 align="center">Bartın Üniversitesi Bilgisayar Programcılığı bölümünden 2024 yılında mezun oldum. Oyun geliştirme konusunda büyük bir tutkuya sahibim ve bu alanda kendimi sürekli olarak geliştirmekteyim. Zexa Studios'un kurucusu ve takım lideri olarak birçok projede yer aldım ve çeşitli yarışmalara katıldım.</h3>
 
