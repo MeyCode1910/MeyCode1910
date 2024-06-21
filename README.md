@@ -1,4 +1,4 @@
-[![MasterHead](https://artpictures.club/autumn-2023.html)
+
 <h1 align="center">Merhaba Ben Muhammet</h1>
 <h3 align="center">Bartın Üniversitesi Bilgisayar Programcılığı bölümünden 2024 yılında mezun oldum. Oyun geliştirme konusunda büyük bir tutkuya sahibim ve bu alanda kendimi sürekli olarak geliştirmekteyim. Zexa Studios'un kurucusu ve takım lideri olarak birçok projede yer aldım ve çeşitli yarışmalara katıldım.</h3>
 
