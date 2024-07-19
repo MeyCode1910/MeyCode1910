@@ -34,8 +34,11 @@ Dil Yeterliliği:<br>
 
 
 Projeler:<br>
-[AsphaltDream3D]: Unity kullanarak geliştirdiğim 3D yarış oyunu.<br>
+[Run Control 2D]: Platform tabanlı engelleri aşmayı ve gizemli yolları bulmayı hedefleyen yaratıcı bir 2D oyun.<br>
+[PlaceCar]:Dönen platformlarda arabaları uygun yerlere koyabileceğimiz bir oyun.<br>
+[AsphaltDream3D]: Unity kullanarak kendimi geliştirdiğim 3D araba oyunu.<br>
 [ColorBarrier3D]: Renk tabanlı engelleri aşmayı hedefleyen yaratıcı bir 3D oyun.<br>
+
 
 Hobiler:<br>
 Spor Yapmak: Fiziksel aktivitelerle zinde kalmayı severim.<br>
